@@ -1,4 +1,4 @@
-# Doc_Editor-RT-
+# Live-Doc-Editor
 Developing a real-time collaborative document editor with Python and Meteor (JavaScript) can be a challenging and exciting project to work on. Here's an overview of what you'll need to get started:
 
 Install Python and Meteor:
